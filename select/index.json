@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "パラレル",
+  "base_artist": "KEYTALK",
+  "createdAt": "2026-02-12T10:41:01.351873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パラレル=",
+      "artist": "Fumiya Sashida",
+      "has_synced": true,
+      "path": "select/01_パラレル=_Fumiya_Sashida.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パラレル",
+      "artist": "Yuko Ando",
+      "has_synced": false,
+      "path": "select/02_パラレル_Yuko_Ando.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "安藤裕子 / パラレル",
+      "artist": "Yuko Ando",
+      "has_synced": false,
+      "path": "select/03_安藤裕子___パラレル_Yuko_Ando.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パラレル",
+      "artist": "安藤裕子",
+      "has_synced": false,
+      "path": "select/04_パラレル_安藤裕子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おまけ　パラレル「意地悪な女医さん」オナ禁妨害嫌がらせ編",
+      "artist": "カモネギちゃんねる",
+      "has_synced": true,
+      "path": "select/05_おまけ_パラレル「意地悪な女医さん」オナ禁妨害嫌がらせ編_カモネギちゃんねる.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラレル",
+      "artist": "KEYTALK",
+      "has_synced": false,
+      "path": "select/pl_01_パラレル_KEYTALK.txt"
+    }
+  ]
+}
